@@ -5,8 +5,7 @@
     "colab": {
       "provenance": [],
       "gpuType": "T4",
-      "authorship_tag": "ABX9TyMJUzULEd7f6VMH9OhlEp1Z",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyMJUzULEd7f6VMH9OhlEp1Z"
     },
     "kernelspec": {
       "name": "python3",
@@ -18,16 +17,6 @@
     "accelerator": "GPU"
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/Ansh-star-777/Multi-tool-AI-APP/blob/main/Multi_tool_AI_app.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "execution_count": null,
